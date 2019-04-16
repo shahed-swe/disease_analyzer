@@ -17,7 +17,7 @@ public class Hospitalproject {
     public static void main(String[] args) {
         // TODO code application logic here
         Screen obj = new Screen(); //making an object of screen class
-        Self_Describe obj2 = new Self_Describe(); //making an object of login class
+        hospital_login obj2 = new hospital_login(); //making an object of login class
         obj.setVisible(true); //screen class form visible
         try{
             
